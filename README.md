@@ -1,1 +1,1 @@
-# yoshikacrider.com
+# yoshikacrider.github.io
