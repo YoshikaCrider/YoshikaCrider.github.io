@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family: system-ui;
     padding: 0px;
     list-style: none;
-    font-weight: 200;
+    font-weight: 300;
 }
 nav ul li, footer ul li {
     display: inline;
