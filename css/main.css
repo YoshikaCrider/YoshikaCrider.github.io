@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family: system-ui;
     padding: 0px;
     list-style: none;
-    font-weight: normal;
+    font-weight: 200;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -36,7 +36,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 
 ul.posts li {
