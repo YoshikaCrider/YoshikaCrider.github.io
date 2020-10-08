@@ -42,3 +42,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+body {
+    background-color: #EDF5F6;
+}
