@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
@@ -1992,7 +1992,8 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			/* font-family: 'Font Awesome 5 Brands'; */
+			font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 			font-weight: 400;
 		}
 
@@ -2001,7 +2002,8 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			/* font-family: 'Font Awesome 5 Brands'; */
+			font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
 		}
 
 		.icon:before {
