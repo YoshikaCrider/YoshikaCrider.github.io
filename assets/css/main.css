@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: Georgia, Times, "Times New Roman", serif;
+		font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
@@ -1993,7 +1993,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			/* font-family: 'Font Awesome 5 Brands'; */
-			font-family: Georgia, Times, "Times New Roman", serif;
+			font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
 			font-weight: 400;
 		}
 
@@ -2003,7 +2003,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			/* font-family: 'Font Awesome 5 Brands'; */
-			font-family: Georgia, Times, "Times New Roman", serif;
+			font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
 		}
 
 		.icon:before {
