@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
    /* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: 300;
@@ -23,7 +23,7 @@ a:hover {
 h1 {
     font-size: 2em;
     /* font-family: "Source Sans Pro", Helvetica, sans-serif; */
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
     font-weight: normal
 }
 p {
