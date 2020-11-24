@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+		font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
@@ -2003,7 +2003,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			/* font-family: 'Font Awesome 5 Brands'; */
-			font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 		}
 
 		.icon:before {
